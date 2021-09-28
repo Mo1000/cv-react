@@ -48,25 +48,25 @@ const Contact = () => {
 
                 <div className="socialNetwork">
                     <ul>
-                        <a href="https://www.google.com/" target="_blanck"
+                        <a href="https://www.linkedin.com/in/amos-ahounou/" target="_blanck"
                         rel="noopener noreferrer">
                             <h4>LinkedIn</h4>
                             <i className="fab fa-linkedin"></i>
                         </a>
 
-                        <a href="https://www.google.com/" target="_blanck"
+                        <a href="https://github.com/Mo1000" target="_blanck"
                            rel="noopener noreferrer">
                             <h4>GitHub</h4>
                             <i className="fab fa-github"></i>
                         </a>
 
-                        <a href="https://www.google.com/" target="_blanck"
+                        <a  href ="https://www.twitter.com" target="_blanck"
                            rel="noopener noreferrer">
                             <h4>Twitter</h4>
                             <i className="fab fa-twitter"></i>
                         </a>
 
-                        <a href="https://www.google.com/" target="_blanck"
+                        <a href ="https://codepen.io/" target="_blanck"
                            rel="noopener noreferrer">
                             <h4>CodePen</h4>
                             <i className="fab fa-codepen"></i>

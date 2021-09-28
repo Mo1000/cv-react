@@ -3,28 +3,22 @@ import React from 'react';
 const Expereinces = () => {
     return (
         <div className="experience">
-            <h3>Expériences</h3>
+            <h3>Expériences </h3>
             <div className="exp-1">
-                <h4>Directeur Technique</h4>
-                <h5>2010-2020</h5>
+                <h4>Stagiare a la Direction des Systèmes
+                    Informatique-Port Autonomme de Cotonou</h4>
+                <h5>Juin 2018 – Juillet 2018</h5>
                 <p>
-                    Propriétaire d’un nightclub new-yorkais très populaire,
-                    James "Ghost" St. Patrick entend développer son empire.
-                    Seulement sa double-vie à la tête d'un des réseaux de
-                    drogue les plus importants de la ville pourrait devenir
-                    un handicap.
+
                 </p>
             </div>
 
             <div className="exp-2">
-                <h4>Directeur Technique</h4>
-                <h5>2010-2020</h5>
+                <h4>Stagiaire en Informatique -GPro Consulting Tunisie </h4>
+                <h5>1er Juillet 2021 - 31 Aout 2021 </h5>
                 <p>
-                    Propriétaire d’un nightclub new-yorkais très populaire,
-                    James "Ghost" St. Patrick entend développer son empire.
-                    Seulement sa double-vie à la tête d'un des réseaux de
-                    drogue les plus importants de la ville pourrait devenir
-                    un handicap.
+                  Conception et dévelopement d’une application web
+                   en utilisant en Front-End React et en Back-End Spring-Boot
                 </p>
             </div>
 

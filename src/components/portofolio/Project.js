@@ -43,7 +43,7 @@ class Project extends Component {
                                 <h2>{name}</h2>
                                 <div className="sourceCde">
                                     <a href={source} rel="noopener noreferrer"
-                                    className="button" target="_blank">Code source</a>
+                                    className="button" target="_blank">Visualisation</a>
                                 </div>
                             </div>
                             <p className="text">{info}</p>

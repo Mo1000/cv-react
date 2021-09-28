@@ -8,7 +8,7 @@ const Home = () => {
             <div className="homeContent">
                 <div className="content">
                     <h1> Amos Landry</h1>
-                    <h2> Developpeur</h2>
+                    <h2> Elève Ingénieur en Informatique</h2>
                     <div className="pdf">
                         <a href="./media/New_CV.pdf" target="_blank">Télécharger CV</a>
                     </div>

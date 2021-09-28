@@ -13,24 +13,24 @@ const OtherSkills = () => {
                         </i> Github</li>
 
                         <li><i className="fas fa-check-square">
-                        </i> Next</li>
+                        </i> Node</li>
 
                         <li><i className="fas fa-check-square">
-                        </i> Anglais</li>
+                        </i> SQl</li>
                     </ul>
 
                     <ul>
                         <li><i className="fas fa-check-square">
-                        </i> react</li>
+                        </i> NOSQL</li>
 
                         <li><i className="fas fa-check-square">
-                        </i> Git</li>
+                        </i> HTML</li>
 
                         <li><i className="fas fa-check-square">
-                        </i> Next</li>
+                        </i> UML</li>
 
                         <li><i className="fas fa-check-square">
-                        </i> FRAncais</li>
+                        </i> Francais</li>
                     </ul>
                 </div>
             </dii>
