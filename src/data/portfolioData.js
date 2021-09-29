@@ -22,7 +22,7 @@ export const portfolioData = [
   {
     id: 2,
     name: 'Projet React',
-    languages: ['javascript','react','css'],
+    languages: ['js','react','css'],
     languagesIcons: ['fab fa-js','fab fa-react','fab fa-css3-alt'],
     source: 'https://drive.google.com/drive/folders/1UC2iIRYgT7QUtnVKj1oFTCvGYNKtVdET?usp=sharing',
     info: 'Conception et déploiement d’un site web de restauration avec le Framework React Js \n' +
@@ -38,7 +38,7 @@ export const portfolioData = [
   {
     id: 3,
     name: 'Projet web collocation',
-    languages: ['javascript','php','css'],
+    languages: ['js','php','css'],
     languagesIcons: ['fab fa-js','fab fa-php','fab fa-css3-alt'],
     source: 'https://drive.google.com/drive/folders/1f-8Lap1PtgK3Z-Qh7KL1t5A0jtkoEm8T?usp=sharing',
     info: 'Production de pages pour un site de collocation à partir des\n' +
