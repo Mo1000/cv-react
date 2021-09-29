@@ -221,11 +221,23 @@
 }
 
 @media (max-width: 520px){
-  .radioDisplay {
 
-  }
   .portfolioContent {
     grid-template-rows: 1fr !important;
+    .radioDisplay {
+
+    // width: 91% !important;
+      //margin-bottom: .2rem !important;
+      ul {
+        margin-left: 1.5rem !important;
+        width: 50% !important;
+        li{
+          width: 50% !important;
+        }
+
+      }
+
+    }
 
     .project {
       grid-template-rows: 30px 40px 80px 40px !important;
