@@ -1,22 +1,22 @@
 ---
-name: Bulid and Deploy React App to GitHub pages
+name: Build and Deploy React App to GitHub Pages
 on:
   push:
     branches: [main]
 jobs:
-  bulid-and-deploy:
-    name: Bulid and Deploy
+  build-push-gcr:
+    name: Build and Deploy
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
-        user: actions/Checkout@v2
+        uses: actions/checkout@v2
 
-      - name: Bulid
-        run: yarn install
+      - name: Build
+        run: npm install
 
       - name: Test
-        run: yarn run test
+        run: npm run test
 
       - name: Deploy
         run: |
