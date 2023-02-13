@@ -88,7 +88,7 @@ const Navigation = () => {
           </li>
         </ul>
         <div className="signature">
-          <a>FromAmos-2021</a>
+          <div>FromAmos-2021</div>
         </div>
       </div>
     </div>
