@@ -4,7 +4,7 @@ on:
   push:
     branches: [master]
 jobs:
-  build-push-gcr:
+  build-push-deploy:
     name: Build and Deploy
     runs-on: ubuntu-latest
 
