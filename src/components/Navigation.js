@@ -36,7 +36,7 @@ const Navigation = () => {
               activeClassName="navActive"
             >
               <i className="fas fa-images"></i>
-              <span>Portofolio 32563</span>
+              <span>Portofolio</span>
             </NavLink>
           </li>
           <li>
